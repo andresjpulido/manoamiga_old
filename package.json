@@ -1,0 +1,23 @@
+{
+  "name": "manoamiga",
+  "version": "1.0.0",
+  "description": "Web site mano amiga",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "manoamiga"
+  ],
+  "author": "manoamiga",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^5.0.1"
+  }
+}
